@@ -1,0 +1,60 @@
+{
+    "status": 200,
+    "data": [
+      {
+        "imageList": [
+          "http://dummyimage.com/120x60",
+          "http://dummyimage.com/88x31",
+          "http://dummyimage.com/720x300"
+        ],
+        "detail": "命是再名速",
+        "address": "天津嘉义市",
+        "startTime": "1975-08-08 00:52:57",
+        "numberLimit": 24,
+        "shareNum": 74687,
+        "user": {
+          "isVip": true,
+          "avatar": "http://dummyimage.com/50x50",
+          "name": "邵芳",
+          "tag": "类",
+          "gender": "M",
+          "credit": "841"
+        },
+        "createTime": "1970-04-04 00:01:04",
+        "genderLimit": "F",
+        "tag": "三",
+        "likeNum": 90,
+        "commentNum": 3,
+        "id": "5698534169708104",
+        "addressDetail": "n&n"
+      },
+      {
+        "imageList": [
+          "http://dummyimage.com/120x240",
+          "http://dummyimage.com/240x400",
+          "http://dummyimage.com/88x31"
+        ],
+        "detail": "江易器达",
+        "address": "贵州省黔南布依族苗族自治州",
+        "startTime": "1981-07-30 12:02:24",
+        "numberLimit": 3,
+        "shareNum": 33256,
+        "user": {
+          "isVip": true,
+          "avatar": "http://dummyimage.com/50x50",
+          "name": "戴勇",
+          "tag": "省",
+          "gender": "M",
+          "credit": "912"
+        },
+        "createTime": "1970-06-27 06:28:37",
+        "genderLimit": "ALL",
+        "tag": "指",
+        "likeNum": 735,
+        "commentNum": 6,
+        "id": "-3113606874993068",
+        "addressDetail": "V8bjjd"
+      }
+    ],
+    "message": "Duis proident"
+  }

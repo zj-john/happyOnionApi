@@ -1,0 +1,81 @@
+{
+    "status": 200,
+    "data": [
+      {
+        "image": "http://dummyimage.com/350x150",
+        "title": "汪军",
+        "address": "台湾贺州市",
+        "startTime": "1997-05-12 17:45:38",
+        "price": 417,
+        "viewNum": 53302,
+        "user": {
+          "isVip": false,
+          "avatar": "http://dummyimage.com/50x50",
+          "name": "常勇"
+        },
+        "id": "-6539796615077340",
+        "addressDetail": "t6W!"
+      },
+      {
+        "image": "http://dummyimage.com/350x150",
+        "title": "蒋丽",
+        "address": "安徽省衡水市",
+        "startTime": "2009-08-04 19:53:26",
+        "price": 418,
+        "viewNum": 98906,
+        "user": {
+          "isVip": false,
+          "avatar": "http://dummyimage.com/50x50",
+          "name": "贾丽"
+        },
+        "id": "-3115598348384196",
+        "addressDetail": ")2Hlw"
+      },
+      {
+        "image": "http://dummyimage.com/350x150",
+        "title": "夏磊",
+        "address": "四川省山南地区",
+        "startTime": "2015-02-07 08:28:57",
+        "price": 57,
+        "viewNum": 21963,
+        "user": {
+          "isVip": false,
+          "avatar": "http://dummyimage.com/50x50",
+          "name": "廖杰"
+        },
+        "id": "-5721656015770692",
+        "addressDetail": "t%vQ"
+      },
+      {
+        "image": "http://dummyimage.com/350x150",
+        "title": "陈静",
+        "address": "湖北省邢台市",
+        "startTime": "1995-04-14 22:57:42",
+        "price": 171,
+        "viewNum": 95962,
+        "user": {
+          "isVip": true,
+          "avatar": "http://dummyimage.com/50x50",
+          "name": "白刚"
+        },
+        "id": "-7400049175764408",
+        "addressDetail": "nO4M(z"
+      },
+      {
+        "image": "http://dummyimage.com/350x150",
+        "title": "夏娟",
+        "address": "辽宁省上海市",
+        "startTime": "2009-08-03 00:02:42",
+        "price": 154,
+        "viewNum": 89260,
+        "user": {
+          "isVip": false,
+          "avatar": "http://dummyimage.com/50x50",
+          "name": "史勇"
+        },
+        "id": "6714312967576028",
+        "addressDetail": "529W"
+      }
+    ],
+    "message": "eu magna enim"
+  }

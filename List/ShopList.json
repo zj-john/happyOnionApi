@@ -1,0 +1,26 @@
+{
+    "status": 200,
+    "data": [
+      {
+        "image": "http://dummyimage.com/350x150",
+        "name": "火对先处",
+        "address": "湖北省呼和浩特市",
+        "startTime": "1996-07-12 13:49:23",
+        "price": 89,
+        "viewNum": 28620,
+        "id": "-6470618139688720",
+        "addressDetail": "Y*1"
+      },
+      {
+        "image": "http://dummyimage.com/350x150",
+        "name": "并铁采叫算",
+        "address": "天津澎湖县",
+        "startTime": "1971-08-05 05:49:01",
+        "price": 473,
+        "viewNum": 83145,
+        "id": "-2834786210669540",
+        "addressDetail": "#qy"
+      }
+    ],
+    "message": "sunt sed dolore in Duis"
+  }
